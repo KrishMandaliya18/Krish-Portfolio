@@ -8,8 +8,8 @@ const Project = () => {
     {
       id: 1,
       title: "Figma UiUX design",
-      description: "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions with a focus on OS and DBMS.",
-      image: "https://picsum.photos/seed/project3/400/230",
+      description: "This is a modern and clean food delivery app design called SnackRush. It uses a bold red and white theme that looks very professional and appetizing. The layout is well-organized with easy-to-read cards, high-quality images, and a unique curved bottom menu that makes it stand out from typical apps.",
+      image: "images/figma.png",
       tags: ["Figma"],
       // AAPKA FIGMA LINK YAHAN HAI
       figmaLink: "https://www.figma.com/design/Sx2cjvUPoUNwwCE7KDeVqq/Untitled?node-id=0-1&m=dev&t=an8GW9tOFDS1JiKB-1", 
@@ -20,7 +20,7 @@ const Project = () => {
       id: 2,
       title: "Tic-Tac-Toe",
       description:" This is a digital version of the classic Tic Tac Toe game, featuring a minimalist $3 \times 3 grid on a dark green background. It works through interactive logic where two players click on the tiles to place their respective marks. A Reset Game button at the bottom allows users to clear the board and start a new round instantly.", 
-      image: "images/Tic.png",
+      image: "images/tic.png",
       tags: ["Html", "Css", "JavaScript"],
       codeLink: "https://github.com/KrishMandaliya18/Tic-Tac-Toe.git",
       liveLink: "https://tic-tac-toe-websites.netlify.app/"
